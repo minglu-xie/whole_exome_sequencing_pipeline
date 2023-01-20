@@ -2,7 +2,7 @@
 ### Record of whole exome sequencing analysis study
 In this study, I will try to repeat the results in "[Discovery of a molecular glue promoting CDK12-DDB1 interaction to trigger cyclin K degradation](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7462607/)". The datasets are from GSE153707.
 
-####Acknowledgements:
+#### Acknowledgements:
 
 [Biotrainee](https://www.yuque.com/biotrainee/wes)
 
